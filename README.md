@@ -1,2 +1,3 @@
 # demo02
-For some tests
+
+First writing of branch INFO
